@@ -25,8 +25,8 @@ open System.Runtime.InteropServices
 // associated with an assembly.
 [<assembly: AssemblyTitle("YC.Utils.SourceText")>]
 [<assembly: AssemblyDescription("Utils.SourceText is a library for F# that allows you to store coordinates of different parts of code on the usefull way")>]
-[<assembly: AssemblyConfiguration("")>]
-[<assembly: AssemblyCompany("Ilya Orlov")>]
+[<assembly: AssemblyConfiguration("Release")>]
+[<assembly: AssemblyCompany("Ilia Orlov")>]
 [<assembly: AssemblyProduct("YC.Utils.SourceText")>]
 [<assembly: AssemblyCopyright("Copyright © 2013. YaccConstructor Software Foundation https://code.google.com/p/recursive-ascent/")>]
 [<assembly: AssemblyTrademark("")>]
@@ -57,8 +57,8 @@ open System.Runtime.InteropServices
 //
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
-// [assembly: AssemblyVersion("1.0.*")]
-[<assembly: AssemblyVersion("0.1.*")>]
-[<assembly: AssemblyFileVersion("0.1.*")>]
+// [assembly: AssemblyVersion("0.1.6500.6")]
+[<assembly: AssemblyVersion("0.1.6500.5")>]
+[<assembly: AssemblyFileVersion("0.1.6500.5")>]
 
 do ()
