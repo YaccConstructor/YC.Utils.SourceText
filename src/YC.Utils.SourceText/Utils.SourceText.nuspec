@@ -2,7 +2,7 @@
 <package>
 <metadata>
 <id>YC.Utils.SourceText</id>
-<version>0.1.6500-dev-9-local</version>
+<version>0.1.6500-dev-12-local</version>
 <title>YC.Utils.SourceText</title>
 <authors>Ilia Orlov</authors>
 <owners>Ilia Orlov</owners>
@@ -17,7 +17,7 @@
 </metadata>
 <files>
 <!-- <file src="..\..\Bin\Release\v45\Utils.SourceText.*" target="\lib\net45\" exclude="**\*Test*"/> -->
-<file src="..\..\Bin\Release\v40\Utils.SourceText.*" target="\lib\net40\" exclude="**\*Test*" />
+<file src="..\..\Bin\Release\v40\YC.Utils.SourceText.*" target="\lib\net40\" exclude="**\*Test*" />
 <file src="..\..\README.md" target="README.md" />
 <file src="..\..\LICENSE" target="LICENSE" />
 <file src="..\..\NOTICE" target="NOTICE" />
