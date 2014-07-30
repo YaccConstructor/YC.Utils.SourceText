@@ -50,7 +50,7 @@
     <Reference Include="System.Numerics" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\YC.Utils.SourceText\YC.Utils.SourceText.fsproj">
+    <ProjectReference Include="..\Utils.SourceText\YC.Utils.SourceText.fsproj">
       <Name>YC.Utils.SourceText</Name>
       <Project>{f296356b-00c3-465c-9c97-7cfa279f5574}</Project>
       <Private>True</Private>
