@@ -8,7 +8,7 @@
     <ProjectGuid>{24ac8ff8-638d-437e-a806-859c0a0c701d}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Utils.SourceText.Test</RootNamespace>
-    <AssemblyName>YC.Utils.SourceText.Tests</AssemblyName>
+    <AssemblyName>YC.Utils.SourceText.Test</AssemblyName>
     <Name>Utils.SourceText.Tests</Name>
     <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
     <RestorePackages>true</RestorePackages>
