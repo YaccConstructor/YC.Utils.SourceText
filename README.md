@@ -1,8 +1,8 @@
 YC.Utils.SourceText
 ===================
 
-<a href="http://teamcity/viewType.html?buildTypeId=YaccConstructor_YcUtilsSourceTextGeneralBuild&guest=1">
-<img src="http://teamcity/app/rest/builds/buildType:(id:YaccConstructor_YcUtilsSourceTextGeneralBuild)/statusIcon"/>
+<a href="http://teamcity.codebetter.com/viewType.html?buildTypeId=YaccConstructor_YcUtilsSourceTextGeneralBuild&guest=1">
+<img src="http://teamcity.codebetter.com/app/rest/builds/buildType:(id:YaccConstructor_YcUtilsSourceTextGeneralBuild)/statusIcon"/>
 </a>
 
 Utils.Source Text is a module that allows you to store coordinates of different parts of code on the usefull way. 
