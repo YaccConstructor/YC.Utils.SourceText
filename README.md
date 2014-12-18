@@ -1,4 +1,6 @@
-YC.Utils.SourceText <a href="http://teamcity.codebetter.com/viewType.html?buildTypeId=YaccConstructor_YcUtilsSourceTextGeneralBuild&guest=1">
+YC.Utils.SourceText
+
+<a href="http://teamcity.codebetter.com/viewType.html?buildTypeId=YaccConstructor_YcUtilsSourceTextGeneralBuild&guest=1">
 <img src="http://teamcity.codebetter.com/app/rest/builds/buildType:(id:YaccConstructor_YcUtilsSourceTextGeneralBuild)/statusIcon"/>
 </a>
 ===================
