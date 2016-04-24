@@ -49,3 +49,10 @@ type Pair =
     val AbsoluteOffset : int64<symbol>
     new (i : int<id>, o : int64<symbol>)  = { Id = i; AbsoluteOffset = o }
 
+[<Struct>]
+type Position<'br> =
+    val StartOffset: int
+    val EndOffset: int
+    val BackRef: 'br
+    new (so, eo, br) = { StartOffset = so; EndOffset = eo; BackRef = br }
+
