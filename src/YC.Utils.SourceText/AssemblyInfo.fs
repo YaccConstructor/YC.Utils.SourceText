@@ -1,4 +1,4 @@
-//   Copyright 2013, 2014 YaccConstructor Software Foundation
+ï»¿//   Copyright 2013, 2014 YaccConstructor Software Foundation
 //
 //   Licensed under the Apache License, Version 2.0 (the "License");
 //   you may not use this file except in compliance with the License.
@@ -25,10 +25,10 @@ open System.Runtime.InteropServices
 // associated with an assembly.
 [<assembly: AssemblyTitle("YC.Utils.SourceText")>]
 [<assembly: AssemblyDescription("Utils.SourceText is a library for F# that allows you to store coordinates of different parts of code on the usefull way")>]
-[<assembly: AssemblyConfiguration("")>]
+[<assembly: AssemblyConfiguration("Release")>]
 [<assembly: AssemblyCompany("Ilya Orlov")>]
 [<assembly: AssemblyProduct("YC.Utils.SourceText")>]
-[<assembly: AssemblyCopyright("Copyright © 2013. YaccConstructor Software Foundation https://code.google.com/p/recursive-ascent/")>]
+[<assembly: AssemblyCopyright("Copyright ï¿½ 2013. YaccConstructor Software Foundation https://code.google.com/p/recursive-ascent/")>]
 [<assembly: AssemblyTrademark("")>]
 [<assembly: AssemblyCulture("")>]
 
@@ -57,8 +57,8 @@ open System.Runtime.InteropServices
 //
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
-// [assembly: AssemblyVersion("1.0.*")]
-[<assembly: AssemblyVersion("0.1.*")>]
-[<assembly: AssemblyFileVersion("0.1.*")>]
+// [assembly: AssemblyVersion("0.3.0.27")]
+[<assembly: AssemblyVersion("0.3.0.27")>]
+[<assembly: AssemblyFileVersion("0.3.0.27")>]
 
 do ()
