@@ -1,0 +1,24 @@
+type project
+owners
+    YaccConstructor
+authors 
+    Ilia Orlov
+    Semyon Grigorev
+projectUrl
+    http://github.com/YaccConstructor/YC.Utils.SourceText
+iconUrl
+    https://raw.githubusercontent.com/YaccConstructor/YC.Utils.SourceText/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/YaccConstructor/YC.Utils.SourceText/blob/master/LICENSE
+requireLicenseAcceptance
+    false
+copyright
+    Copyright YaccConstructor 2013-2016
+tags
+    Parsing Lexing Reengineering SourceCode SourceText Navigation Utils .NET F# FSharp
+summary
+    Helpers for source code basic manipulation.
+description
+    Utils.SourceText is a library for F# that allows you to store coordinates of different parts of code on the usefull way.
+
+
