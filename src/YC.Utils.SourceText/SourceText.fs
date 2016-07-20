@@ -13,9 +13,9 @@
 //   limitations under the License.
 
 
-module Yard.Utils.SourceText
+module YC.Utils.SourceText
 
-open Yard.Utils.StructClass
+open YC.Utils.StructClass
 
 (*
   For Trinity:

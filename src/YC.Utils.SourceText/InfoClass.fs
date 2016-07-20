@@ -13,12 +13,12 @@
 //   limitations under the License.
 
 
-module Yard.Utils.InfoClass
+module YC.Utils.InfoClass
 
 open System.Collections.Generic
 open System.IO
-open Yard.Utils.StructClass
-open Yard.Utils.SourceText
+open YC.Utils.StructClass
+open YC.Utils.SourceText
 
 
 let rec getLine (map : array<_>) id offset left right = //BinarySearch         

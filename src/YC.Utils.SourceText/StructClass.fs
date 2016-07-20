@@ -13,7 +13,7 @@
 //   limitations under the License.
 
 
-module Yard.Utils.StructClass
+module YC.Utils.StructClass
 
 
 (*
