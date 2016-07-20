@@ -6,7 +6,7 @@
 Utils.Source Text is a module that allows you to store coordinates of different parts of code on the usefull way. 
 Due to this module you can increase the runtime of your lexical analyzer programm and reduce the use of random access memory.
 
-In order to start the scaffolding process run 
+In order to build run 
 
     > build.cmd // on windows    
     $ ./build.sh  // on unix
